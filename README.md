@@ -1,4 +1,4 @@
-# **Bus Tracker**
+# **REAL TIME BUS TRACKER**
 ![Screen Shot 2021-10-20 at 1 56 39 PM](https://user-images.githubusercontent.com/88118070/138174942-12e07412-be6e-486a-b03a-9de625b9d8dd.png)
 
 ## Introduction
@@ -19,7 +19,7 @@
 
 ## Links
 >- [My Portfolio](https://github.com/martha-moreno/martha-moreno.github.io)
->- [Bus Tracker Repo](https://github.com/martha-moreno/BusTracker)
+>- [Real Time Bus Tracker Repo](https://github.com/martha-moreno/BusTracker)
 >- [API](https://developer.wmata.com/)
 >- [Language Card](https://github.com/anuraghazra/github-readme-stats#language-card-exclusive-options)
 
