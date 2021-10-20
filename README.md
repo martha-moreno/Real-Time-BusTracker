@@ -18,7 +18,7 @@
 > Display Time in the title at which the location was retrieved
 
 ## Links
->- [My Portfolio](https://github.com/martha-moreno/martha-moreno.github.io)
+>- [My Portfolio](https://martha-moreno.github.io/)
 >- [Real Time Bus Tracker Repo]( https://github.com/martha-moreno/Real-Time-BusTracker)
 >- [API](https://developer.wmata.com/)
 
