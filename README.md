@@ -19,7 +19,7 @@
 
 ## Links
 >- [My Portfolio](https://github.com/martha-moreno/martha-moreno.github.io)
->- [Real Time Bus Tracker Repo](https://github.com/martha-moreno/Real-Time-BusTracker)
+>- [Real Time Bus Tracker Repo]( https://martha-moreno.github.io/Real-Time-BusTracker/)
 >- [API](https://developer.wmata.com/)
 
 ## License
