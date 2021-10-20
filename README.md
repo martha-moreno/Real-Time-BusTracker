@@ -5,7 +5,7 @@
 > This project displays markers of Bus locations on a map (using MapBox) after data is fetched directly from Washington Metropolitan Area Transit Authority API
 
 ## Installation
->  Download index.html, bustracker.js & styles.css all together to the same location/folder
+>  Download index.html, mapanimation.js & styles.css all together to the same location/folder
 >  Drag & Drop index html into your web browser
 
 ## Built With
