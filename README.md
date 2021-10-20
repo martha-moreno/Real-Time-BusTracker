@@ -19,9 +19,9 @@
 
 ## Links
 >- [My Portfolio](https://github.com/martha-moreno/martha-moreno.github.io)
->- [Repo](https://github.com/martha-moreno/BusTracker)
+>- [Bus Tracker Repo](https://github.com/martha-moreno/BusTracker)
 >- [API](https://developer.wmata.com/)
->- [Language Card](https://github.com/anuraghazra/github-readme-stats)
+>- [Language Card](https://github.com/anuraghazra/github-readme-stats#language-card-exclusive-options)
 
 ## License
 > MIT
